@@ -1,0 +1,150 @@
+
+.navbar-inverse .navbar-nav>li>a {
+               color :#FFFFFF;
+			   font-family: 'Cairo';
+			   
+			   
+}
+
+
+.navbar-inverse .navbar-collapse {
+	
+
+	color :#FFFFFF;
+	
+}
+.navbar-inverse .navbar-header{
+	
+	
+	color :#FFFFFF;
+}
+.navbar-inverse .navbar-header>a:hover{
+	
+	color :#FFFFFF;
+}
+
+
+.navbar-inverse {
+    background-color: #232323; 
+    
+	color :#FFFFFF;
+}
+
+.navbar-inverse .navbar-text {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+        color: red;
+
+	
+}
+
+.c{border:1px solid #000;}
+
+.panelanly{
+padding-right:30px;
+}
+.panelanly2{
+               padding-right:20px;
+}
+
+.btn-blue {
+    color: #FFFFFF;
+    background-color: #015396;
+    border-color: #FFFFFF;
+    border-radius: 4px;
+    padding: 7px 30px;
+    font-size: 17px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid;
+}
+
+.btn-close {
+    color: #FFFFFF;
+    background-color: #d80909;
+    border-color: #FFFFFF;
+    border-radius: 4px;
+    padding: 7px 25px;
+    font-size: 16px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid;
+}
+.btn-def {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    border-radius: 4px;
+    padding: 7px 25px;
+    font-size: 16px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid;
+}
+.btn-edit {
+	color: #fff;
+    background-color: #0fc718;
+    border-color: #ccc;
+    border-radius: 4px;
+    padding: 4px 22px;
+    font-size: 12px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid;
+}
+.btn-delete {
+	color: #fff;
+    background-color: #d80909;
+    border-color: #ccc;
+    border-radius: 4px;
+    padding: 4px 22px;
+    font-size: 12px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid;
+    
+}
+.btn-add {
+    color: #FFFFFF;
+    background-color: #015396;
+    border-color: #FFFFFF;
+    border-radius: 4px;
+    padding: 6px 25px;
+    font-size: 14px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid;
+	
+}
+.btn-add:hover{
+	color:#fff;
+	text-decoration:none;
+	background-color:#3598DB;
+	
+}
+.btn-edit:hover{
+	color:#fff;
+	text-decoration:none;
+	background-color:#16A086;
+	
+}
+.btn-delete:hover{
+	color:#fff;
+	text-decoration:none;
+	background-color:#E84C3D;
+	
+}
+
+.btn-save{
+    color: #FFFFFF;
+    background-color: rgb(0, 180, 0);
+    border-color: #FFFFFF;
+    border-radius: 4px;
+    padding: 7px 30px;
+    font-size: 17px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid;
+}

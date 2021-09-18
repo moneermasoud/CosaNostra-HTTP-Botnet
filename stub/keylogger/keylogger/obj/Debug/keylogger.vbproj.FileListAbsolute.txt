@@ -1,0 +1,14 @@
+D:\برمجة\CosaNostra\keylogger\keylogger\obj\Debug\keylogger.vbproj.GenerateResource.Cache
+D:\برمجة\CosaNostra\keylogger\keylogger\bin\Debug\svhost.exe.config
+D:\برمجة\CosaNostra\keylogger\keylogger\bin\Debug\svhost.exe
+D:\برمجة\CosaNostra\keylogger\keylogger\bin\Debug\svhost.pdb
+D:\برمجة\CosaNostra\keylogger\keylogger\bin\Debug\svhost.xml
+D:\برمجة\CosaNostra\keylogger\keylogger\obj\Debug\svhost.Form1.resources
+D:\برمجة\CosaNostra\keylogger\keylogger\obj\Debug\svhost.Resources.resources
+D:\برمجة\CosaNostra\keylogger\keylogger\obj\Debug\svhost.exe
+D:\برمجة\CosaNostra\keylogger\keylogger\obj\Debug\svhost.xml
+D:\برمجة\CosaNostra\keylogger\keylogger\obj\Debug\svhost.pdb
+D:\MyWork\برمجة\CosaNostra\keylogger\keylogger\bin\Debug\svhost.exe.config
+D:\MyWork\برمجة\CosaNostra\keylogger\keylogger\obj\Debug\svhost.exe
+D:\MyWork\برمجة\CosaNostra\keylogger\keylogger\obj\Debug\svhost.xml
+D:\MyWork\برمجة\CosaNostra\keylogger\keylogger\obj\Debug\svhost.pdb

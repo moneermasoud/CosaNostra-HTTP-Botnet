@@ -1,0 +1,61 @@
+/*
+ * Slider Show By Moneer Masoud
+ */
+#slider{
+	width:350px;
+	height:308px;
+	overflow:hidden;
+	border:box-shadow;
+}
+#slider img{
+	width:360px;
+	height:308px;
+	border: 1px solid #8a4419;
+    border-style: inset;
+
+}
+
+#sliderXs {
+	width:290px;
+	height:250px;
+	overflow:hidden;
+}
+#sliderXs img{
+	width:290px;
+	height:250px;
+	border: 1px solid #8a4419;
+    border-style: inset;
+	
+}
+
+#next2 {
+	position:relative;
+	bottom:220px;
+	z-index:4;
+	float:right;
+	opacity: 0;
+}
+#next2:hover{
+	opacity:1;
+}
+#prev2 {
+	position:relative;
+	bottom:220px;
+	z-index:4;
+	float:left;
+	opacity: 0;
+	left: 110px;
+}
+#prev2:hover{
+	opacity:1;
+}
+#wrp {
+	margin:0 auto;
+	position:relative;
+}
+#wrp2 {
+	margin:0 auto;
+	position:relative;
+	
+}
+	
