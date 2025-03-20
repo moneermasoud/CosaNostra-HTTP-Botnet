@@ -48,7 +48,7 @@
 <br>
 <span style="font-size: large;" class="mycode_size">How To Setup CosaNostra v.1.2 HTTP BotNet </span> <a href="https://t.me/th3darklyChannel" target="_blank" >click here</a><br>
 
-<span style="font-size: large;" class="mycode_size"> If you interesting about want Gomorrah v.5.5 Stealer  </span> <a href="https://t.me/th3darklyChannel" target="_blank" >click here</a><br>
+<span style="font-size: large;" class="mycode_size"> If you interesting about ==> Gomorrah v.5.5 Stealer  </span> <a href="https://t.me/th3darklyChannel" target="_blank" >click here</a><br>
 
  
 
