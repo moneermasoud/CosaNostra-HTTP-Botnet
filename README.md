@@ -46,7 +46,7 @@
 <br>
 <span style="font-size: large;" class="mycode_size"><img loading="lazy" src="https://i.imgur.com/S5ANc3m.png" alt="[Image: S5ANc3m.png]" class="mycode_img modal_image" data-image-modal="https://i.imgur.com/S5ANc3m.png" data-image-modal-original="https://i.imgur.com/S5ANc3m.png" data-image-modal-safe="1"></span><br>
 <br>
-Note : when you bulid Payload use http not http 
+Note : when you bulid Payload use https not http 
 and bulid like this http://site.com/webpanel/ 
 <br>
 <span style="font-size: large;" class="mycode_size">How To Setup CosaNostra v.1.2 HTTP BotNet </span> <a href="https://t.me/th3darklyChannel" target="_blank" >click here</a><br>
